@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Game">
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon  ="@drawable/ic_play_arrow_24dp"
+            android:title="경기보기" />
+
+
+    </item>
+<item android:title="Team Menu">
+       <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/search"
+                android:title="팀조회" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_group_24dp"
+                android:title="팀원현황" />
+            <item
+                android:id="@+id/nav_camera"
+                android:icon="@drawable/ic_event_24dp"
+                android:title="스케쥴러" />
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_message_24dp"
+                android:title="팀채팅" />
+        </menu>
+    </item>
+    <item android:title="Map">
+        <menu> <item
+        android:id="@+id/nav_camera11"
+        android:icon="@drawable/map"
+        android:title="지도보기" /></menu>
+    </item>
+<item android:title="QnA">
+    <menu><item
+    android:id="@+id/nav_camera111"
+    android:icon="@drawable/ic_help_24dp"
+    android:title="질의응답" /></menu>
+</item>
+
+
+
+</menu>

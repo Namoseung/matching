@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="270dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/member"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_width="249dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/editText"
+            android:hint="ID를 입력해주세요." />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="중복확인."
+                android:id="@+id/Overlab"
+                android:layout_gravity="right"
+                android:layout_weight="1" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/wndqhr"
+                android:layout_weight="1"
+                android:visibility="invisible"
+                />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="270sp"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_width="249dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/editText1"
+            android:hint="PW를 입력해주세요." />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_width="249dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/editText2"
+            android:hint="별명을 입력해주세요." />
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="중복확인"
+                android:id="@+id/Overlab2"
+                android:layout_gravity="right"
+                android:layout_weight="1" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/wndqhr2"
+                android:layout_weight="1"
+                android:visibility="invisible"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" Text"
+        android:id="@+id/tva"
+        android:layout_gravity="right"
+        android:visibility="invisible" />
+
+    <LinearLayout
+        android:layout_width="270sp"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_width="270sp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/editText3"
+            android:hint="이메일주소를 입력하세요." />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="270sp"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_width="249dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/editText4"
+            android:hint="생년월일을 입력해 주세요." />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="270sp"
+        android:layout_height="wrap_content">
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="60sp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView2"
+                android:text="성별"
+                android:textSize="20sp"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="69dp"
+                android:id="@+id/radioButton"
+
+                android:checked="true" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/man"
+                android:hint="남자"
+                android:textSize="20sp"/>
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="69dp"
+                android:id="@+id/radioButton1"
+                android:layout_gravity="right"
+                android:checked="false" />
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/woman"
+                android:hint="여자"
+                android:textSize="20sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/sex"
+                android:hint="성별"
+                android:layout_weight="1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tva2"
+                android:visibility="visible" />
+        </RadioGroup>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_width="249dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/editText5"
+            android:hint="주소(동,읍,면까지)기입해주세요." />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_width="249dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/editText6"
+            android:hint="전화번호를 기입해 주세요." />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_width="249dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/editText7"
+            android:hint="카카오톡 ID를 입력해 주세요." />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="46dp">
+        <Button
+            android:layout_width="143dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/memberok"
+            android:text="가입하기"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

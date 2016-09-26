@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_326d8a501e40592c3bd8755f264569490c60cab6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_ee30473812d3338e3252958e84ec606a4ec32844\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="61d5fd54d025166a07d7ff8e684d738ddc66aef3">
+        <dex dex="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_02de8c8cfe6c654eb30177af86e4f175041b6b7e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\exploded-aar\com.android.support\design\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.0.0_b27cd1b5c1ee60b76aeed57c3215e785cd494ada\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_b23877f13317e31d072692069c985e26be150a70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_11e122f4252342abfea773ef8ce6a11688d82afb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yooji\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_aac2d70e53969b67d698d630097f66bdc5cd0ca1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_025fd258d8fe6fd37405207f48e404571551cdf5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="40c7feca5daa8fa2e31582d797bd14561342bcd8">
+        <dex dex="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e1ddc6118583af6603a250e9d7bed0ac98307fb1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\yooji\Documents\drawer (2)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_a46325bea5785bf105ceddcb173e5983c58cee71\classes.dex" />
+    </item>
+
+</items>
